@@ -335,6 +335,10 @@ body {
 
 #outer-wrap {
   position: relative;
+  width: 100%;
+}
+
+.js-nav #outer-wrap {
   overflow: hidden;
   width: 100%;
 }
